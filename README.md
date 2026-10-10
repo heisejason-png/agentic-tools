@@ -200,4 +200,5 @@ This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.
 Apache 2.0 — see [LICENSE](LICENSE) for details.
 
 Copyright (c) 2025 Meta Platforms, Inc.
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
